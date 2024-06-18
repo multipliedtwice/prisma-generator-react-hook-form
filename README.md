@@ -8,9 +8,3 @@
 
 Generates reach-hook forms to update models based on config files. Works with any UI library. Allows to generate different layouts.
 
-
----
-
-## Rememo.io [Free Kanban & Chat](https://rememo.io)
-
-<img src="https://github.com/multipliedtwice/prisma-generator-react-hook-form/blob/feat/internal-validation/rememo-192.png?raw=true" alt="Free Kanban & Corporate Chat">
