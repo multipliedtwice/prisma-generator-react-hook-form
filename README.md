@@ -1,4 +1,4 @@
-# Prisma Generator React Hook Form
+# Prisma Generator React Hook Form (POC)
 
 [![npm version](https://badge.fury.io/js/prisma-generator-react-hook-form.svg)](https://badge.fury.io/js/prisma-generator-react-hook-form)
 [![npm](https://img.shields.io/npm/dt/prisma-generator-react-hook-form.svg)](https://www.npmjs.com/package/prisma-generator-react-hook-form)
