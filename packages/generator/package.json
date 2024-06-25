@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@prisma/client": "5.14.0",
-    "@prisma/generator-helper": "5.14.0",
+    "@prisma/generator-helper": "5.16.0",
     "@prisma/sdk": "4.0.0",
     "ejs": "^3.1.10",
     "lodash": "^4.17.21",
